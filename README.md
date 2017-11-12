@@ -1,2 +1,2 @@
 # WikiPage-BigdataAnalysis
-Big Data Analytics of Wiki Page Views
+An easy mapreduce project.
